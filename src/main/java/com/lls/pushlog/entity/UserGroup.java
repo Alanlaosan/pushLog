@@ -18,6 +18,6 @@ public class UserGroup {
 	private String Exception;
 	
 	private Set<UserGroupRelation> userGroupRelations = new HashSet<UserGroupRelation>();
-	private Set<GroupPrivilegeRelation> groupPrivilegeRelations = new HashSet<GroupPrivilegeRelation>();
+//	private Set<GroupPrivilegeRelation> groupPrivilegeRelations = new HashSet<GroupPrivilegeRelation>();
 
 }

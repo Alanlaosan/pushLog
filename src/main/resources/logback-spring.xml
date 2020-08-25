@@ -14,7 +14,7 @@
             <pattern>${log.pattern}</pattern>
             <charset>UTF-8</charset>
         </encoder>
-        <filter class="com.unismc.springbootudcap.powersecurity.util.LogFilter"></filter>
+        <filter class="com.lls.pushlog.util.LogFilter"></filter>
     </appender>
 
     <!--此节点为扩展日志推送到前端配置（新增的）-->
